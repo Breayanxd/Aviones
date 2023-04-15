@@ -1,0 +1,16 @@
+mx\uv\Aviones\Configuracion.class
+mx\uv\Aviones\AvionesApplication.class
+https\t4is_uv_mx\aviones\package-info.class
+mx\uv\Aviones\IAvion.class
+https\t4is_uv_mx\aviones\ReadOneAvionResponse.class
+mx\uv\Aviones\EndPoint.class
+https\t4is_uv_mx\aviones\DeleteAvionResponse.class
+https\t4is_uv_mx\aviones\ObjectFactory.class
+https\t4is_uv_mx\aviones\DeleteAvionRequest.class
+https\t4is_uv_mx\aviones\ReadAllAvionesResponse.class
+https\t4is_uv_mx\aviones\CreateAvionResponse.class
+https\t4is_uv_mx\aviones\CreateAvionRequest.class
+mx\uv\Aviones\Avion.class
+https\t4is_uv_mx\aviones\ReadOneAvionRequest.class
+https\t4is_uv_mx\aviones\UpdateAvionResponse.class
+https\t4is_uv_mx\aviones\UpdateAvionRequest.class

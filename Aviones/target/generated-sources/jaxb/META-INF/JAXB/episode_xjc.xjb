@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por la arquitectura JavaTM para la implantación de la referencia de enlace (JAXB) XML v2.3.2 
+Visite <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2023.04.15 a las 02:25:27 PM CDT 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="https://t4is.uv.mx/aviones">
+    <schemaBindings map="false">
+      <package name="https.t4is_uv_mx.aviones"/>
+    </schemaBindings>
+    <bindings scd="tns:CreateAvionRequest">
+      <class ref="https.t4is_uv_mx.aviones.CreateAvionRequest"/>
+    </bindings>
+    <bindings scd="tns:CreateAvionResponse">
+      <class ref="https.t4is_uv_mx.aviones.CreateAvionResponse"/>
+    </bindings>
+    <bindings scd="tns:ReadAllAvionesResponse">
+      <class ref="https.t4is_uv_mx.aviones.ReadAllAvionesResponse"/>
+    </bindings>
+    <bindings scd="tns:ReadOneAvionRequest">
+      <class ref="https.t4is_uv_mx.aviones.ReadOneAvionRequest"/>
+    </bindings>
+    <bindings scd="tns:ReadOneAvionResponse">
+      <class ref="https.t4is_uv_mx.aviones.ReadOneAvionResponse"/>
+    </bindings>
+    <bindings scd="tns:UpdateAvionRequest">
+      <class ref="https.t4is_uv_mx.aviones.UpdateAvionRequest"/>
+    </bindings>
+    <bindings scd="tns:UpdateAvionResponse">
+      <class ref="https.t4is_uv_mx.aviones.UpdateAvionResponse"/>
+    </bindings>
+    <bindings scd="tns:DeleteAvionRequest">
+      <class ref="https.t4is_uv_mx.aviones.DeleteAvionRequest"/>
+    </bindings>
+    <bindings scd="tns:DeleteAvionResponse">
+      <class ref="https.t4is_uv_mx.aviones.DeleteAvionResponse"/>
+    </bindings>
+  </bindings>
+</bindings>
+
